@@ -1,4 +1,6 @@
-Bank Management System | Python, MySQL
+<img width="1024" height="1536" alt="ChatGPT Image Dec 16, 2025, 10_21_03 PM" src="https://github.com/user-attachments/assets/37cdde4c-20a3-4830-9ea4-3dcb1c6bae98" />
+
+ Bank Management System | Python, MySQL
 
 Developed a Bank Management System to manage core banking operations efficiently using Python and MySQL. The system provides functionalities such as account creation, customer data management, balance inquiry, deposits, withdrawals, and transaction history tracking. It ensures secure data storage, accurate record management, and smooth interaction between the application and the database.
 
